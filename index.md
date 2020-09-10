@@ -3,12 +3,12 @@
 HEP-CCE is a DOE project that develops strategies that enable HEP experiments to run their workflows efficiently on exascale-class High-Perfomance Computers.
 
 HEP-CCE is a collaboration of Argonne National Lab (ANL), Brookhaven National Lab (BNL), Fermilab (FNAL), and Berkeley Lab (LBNL), in partnership with XX experiments
- - ATLAS
- - CMS
- - DUNE
+ - https://atlas.cern/
+ - https://cms.cern/
+ - https://www.dunescience.org/
  - 
  
- and the NSF IRIS-HEP institute.
+ and the NSF [IRIS-HEP institute](https://iris-hep.org/).
 
 
 ### Tasks
