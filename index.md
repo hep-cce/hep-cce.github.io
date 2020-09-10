@@ -1,9 +1,55 @@
-## Welcome to GitHub Pages
+## Welcome to the HEP-CCE GitHub repository
 
-You can use the [editor on GitHub](https://github.com/hep-cce2/hep-cce.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+HEP-CCE is a DOE project that develops strategies that enable HEP experiments to run their workflows efficiently on exascale-class High-Perfomance Computers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HEP-CCE is a collaboration of Argonne National Lab (ANL), Brookhaven National Lab (BNL), Fermilab (FNAL), and Berkeley Lab (LBNL), in partnership with XX experiments
+ - ATLAS
+ - CMS
+ - DUNE
+ - 
+ 
+ and the NSF IRIS-HEP institute.
 
+
+### Tasks
+#### Portable Parallelization Strategies (PPS)
+#### Input/Output Strategies (IOS)
+#### Event Generations (EG)
+#### Complex Workflows (CW)
+### Collaborators
+
+ANL
+BNL
+FNAL
+SLAC
+
+### Partners
+At the core of HEP-CCE project is close engagement with HEP experiments and 
+
+### Partners
+
+HEP Software Foundation
+
+
+
+      Top: "Advert" Audience: General public/funding agencies. Should include
+
+    Branding: it is important that HEP-CCE is shown as a multi-lab collaboration involving four labs and many experiments. Need  lab and experiment logos
+    Pretty pictures, short project description, start-end dates. 
+    Contact (should create hep-cce mail address forwarding to the PIs). 
+
+    Middle: "Details"  Audience: our colleagues. Should include
+
+     Results:    Public code/artifacts, Publications and reports, Conference presentations (possibly link to a separate document we update frequently)
+     People: Org chart, full list of collaborators (possibly link to a separate document we update frequently)
+     Partners: IRIS-HEP, HEP Software Foundation, ...
+    Opportunities: fellowships, open positions, open meetings (possibly link to a separate document we update frequently)
+
+    Bottom: "Collaboration" Audience: HEP-CCE members. Should include
+
+    Full list of meetings (indico fnal)
+    Mailing lists/ Slack channels/ basecamp
+    Internal code repository (HEP-CCE github)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
