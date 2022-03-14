@@ -1,9 +1,10 @@
 ---
 layout: default
-title: HEP-CCE PPS Metrics for portability technologies
+title: HEP-CCE Metrics for portability technologies
 ---
 
-# HEP-CCE Metrics for portability technologies
+[Back to hep-cce home](./)
+
 ## 1. Ease of Learning
 - Assess the ease of learning for developers who are familiar with CUDA or other GPU language and for novices
 - How are domain experts/novices typically contributing to the development? 
@@ -80,3 +81,4 @@ title: HEP-CCE PPS Metrics for portability technologies
       - How easy is it to switch from e.g. TBB to HPX? 
   - Can the portability layer be used together with the native API of a particular platform within an application? E.g. In order to have part of the algorithm more optimized 
 
+[Back to hep-cce home](./)
