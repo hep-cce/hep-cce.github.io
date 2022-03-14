@@ -1,3 +1,8 @@
+---
+layout: default
+title: HEP-CCE PPS Metrics for portability technologies
+---
+
 # HEP-CCE Metrics for portability technologies
 ## 1. Ease of Learning
 - Assess the ease of learning for developers who are familiar with CUDA or other GPU language and for novices
